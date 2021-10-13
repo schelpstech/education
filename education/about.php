@@ -1,132 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="author" content="Themes Industry">
-    <!-- description -->
-    <meta name="description" content="Product is a highly creative, modern, visually stunning and Bootstrap responsive multipurpose agency and HTML5 template with 14 ready home page demos.">
-    <!-- keywords -->
-    <meta name="keywords" content="creative, modern, clean, bootstrap responsive, html5, css3, portfolio, blog, agency, templates, multipurpose, one page, corporate, start-up, studio, branding, designer, freelancer, carousel, parallax, photography, personal, masonry, grid, faq">
-    <!-- Page Title -->
-    <title>Education | MegaOne | Creative HTML5 Template</title>
-    <link rel="stylesheet" href="../vendor/css/jquery.fancybox.min.css">
-    <!-- Favicon -->
-    <link rel="icon" href="../education/img/favicon.ico">
-    <!-- Bundle -->
-    <link rel="stylesheet" href="../vendor/css/bundle.min.css">
-    <!-- Plugin Css -->
-    <link rel="stylesheet" href="../vendor/css/jquery.fancybox.min.css">
-    <link rel="stylesheet" href="../vendor/css/cubeportfolio.min.css">
-    <link rel="stylesheet" href="../education/css/animate.min.css">
-    <link rel="stylesheet" href="../education/css/line-awesome.min.css">
-    <!-- Style Sheet -->
-    <link rel="stylesheet" href="../vendor/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="../education/css/style.css">
-
-
-</head>
-<body data-spy=" " data-target=".navbar" data-offset="150">
-
-<!--SCROLL TOP BUTTON-->
-<a class="scroll-top-arrow" href="javascript:void(0);"><i class="fa fa-angle-up"></i></a>
-
-<!--  PRELOADER  -->
-<div class="loader1">
-    <div class="loading-area">
-        <div class="circle"></div>
-        <div class="circle-small"></div>
-        <div class="circle-big"></div>
-        <div class="circle-inner-inner"></div>
-        <div class="circle-inner"></div>
-    </div>
-</div>
-
-<header>
-
-    <!--    NAVBAR FOR LARGE SCREEN-->
-    <nav id="my-nav1" class="navbar navbar-expand-lg navbar-light bg-light stroke navbar-dark-vision">
-        <div class="container">
-            <a href="../index-education.html" title="Logo" class="logo link">
-                <img src="../education/img/logo-white.png" alt="logo" class="logo-dark default">
-            </a>
-
-            <div class="my-tog-btn">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-
-            <div class="collapse navbar-collapse" id="navbarSupportedContent1" >
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="../index-education.html">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="#">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="courses.html">Courses</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="gallery.html">Gallery</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="blog.html">Blog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact</a>
-                    </li>
-                </ul>
-                <a class="btn btn-primary rounded-pill navbar-btn"  data-toggle="modal" data-target=".modal">Apply Now</a>
-            </div>
-
-
-        </div>
-    </nav>
-
-    <div class="outer-window">
-        <div class="navbar-content">
-
-            <nav class="navbar1">
-                <a class="close-outerwindow"><i class="las la-times"></i></a>
-                <a href="../index-education.html"><img src="../education/img/logo-white.png" alt="logo" class="logo-small-nav default"></a>
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="../index-education.html">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="#">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="courses.html">Courses</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="gallery.html">Gallery</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="blog.html">Blog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact</a>
-                    </li>
-                </ul>
-            </nav>
-        </div>
-    </div>
-
-
-</header>
+<?php
+include "navin.php";
+?>
 
 <section id="about-header" class="bg-about-img">
     <div class="overlay-contact"></div>
     <div class="container">
         <div class="row text-center d-flex justify-content-center align-items-center row-height">
             <div class="col-12">
-                <h1 class="main-heading text-white">University Information</h1>
-                <p class="sub-heading text-white text-width">Lorem ipsum dolor sit amet, consectetur adipi elit, sed do eiusmod tempor incididunt ut
-                    labore.</p>
+                <h1 class="main-heading text-white">School Picture</h1>
+               
             </div>
         </div>
     </div>
@@ -143,9 +25,10 @@
             </div>
             <div class="col-sm-12 col-md-6 col-lg-6 d-flex justify-content-center align-items-center mt-4 mt-md-0 mt-lg-0">
                 <div class="about-heading width-heading">
-                    <h1 class="main-heading green-color">We Love to <span class="blue-color">Educate Students</span></h1>
-                    <p class="sub-heading mt-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim veniam, quis nostrud exercitation.</p>
+                    <h1 class="main-heading green-color">Brief History of  <br><span class="blue-color">St Johns Schools</span></h1>
+                    <p class="sub-heading mt-4">The St. Johns Schools started with St. Johns Children School, established in the year 1995. It began with less than ten children, mostly from Odejayi, Abati and Fadeyi's families.
+                        The school initially operated in a rented apartment beside Iko Gateway Grammar School, Idiroko; it transited through three different rented apartments before it arrived at the permanent site. St Johns Academy, the secondary took off in September, 2009.
+                    </p>
                     <a href="#counter" class="btn btn-primary rounded-pill blue-btn scroll">Read More</a>
                 </div>
             </div>
@@ -172,7 +55,7 @@
                 <div class="wrapper">
                     <div class="counter">
                         <i class="las la-graduation-cap counter_icon"></i>
-                        <span class="timer count-title count-number" data-to="3000" data-speed="1000"></span><i class="las la-plus counter_plus blue-color"></i>
+                        <span class="timer count-title count-number" data-to="5000" data-speed="1000"></span><i class="las la-plus counter_plus blue-color"></i>
                     </div>
                     <p class="count-text ">Students Enrolled</p>
                 </div>
@@ -181,10 +64,10 @@
             <div class="col-12 col-md-4 col-lg-4">
                 <div class="wrapper">
                     <div class="counter">
-                        <i class="las la-school counter_icon"></i>
-                        <span class="timer count-title count-number" data-to="200" data-speed="1000"></span><i class="las la-plus counter_plus blue-color"></i>
+                        <i class="las la-university counter_icon"></i>
+                        <span class="timer count-title count-number" data-to="<?php echo(date("Y")-1995)?>" data-speed="1000"></span><i class="las la-plus counter_plus blue-color"></i>
                     </div>
-                    <p class="count-text">Complete Courses</p>
+                    <p class="count-text">Years of Existence</p>
                 </div>
             </div>
         </div>
@@ -192,7 +75,70 @@
 
     </div>
 </section>
+<section id="features">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-lg-8 offset-lg-2 text-center">
+                <h1 class="main-heading green-color">Our Core Values :: <span class="blue-color"> St Johns Schools</span></h1>
+                <p class="sub-heading text-black">Our vision is to become a world class citadel of excellence in the educational field with 
+                                            a commitment to raising academically and spiritually sound leadership through high level of instructional, moral and social discipline.</p>
+            </div>
+        </div>
 
+        <div class="row mt-4 feature-card">
+
+            <div class="col-sm-12 col-md-6 col-lg-6 col-height-features">
+                <div class="card box text-center">
+                    <div class="card-body box__image">
+                        <div class="feature-icon green-color">
+                            <i class="las la-globe"></i>
+                        </div>
+                        <h2 class="card-title">Moral Values</h2>
+                       </div>
+                </div>
+            </div>
+
+            <div class="col-sm-12 col-md-6 col-lg-6 col-height-features">
+                <div class="card box text-center">
+                    <div class="card-body box__image">
+                        <div class="feature-icon blue-color">
+                            <i class="las la-gem"></i>
+                        </div>
+                        <h2 class="card-title">Spiritual Consciousness</h2>
+                        
+                    </div>
+                </div>
+            </div>
+
+            
+
+            <div class="col-sm-12 col-md-6 col-lg-6 col-height-features">
+                <div class="card box text-center">
+                    <div class="card-body box__image">
+                        <div class="feature-icon blue-color">
+                            <i class="las la-university"></i>
+                        </div>
+                        <h2 class="card-title">Sound Mind</h2>
+                       </div>
+                </div>
+            </div>
+
+           
+
+            <div class="col-sm-12 col-md-6 col-lg-6 col-height-features">
+                <div class="card box text-center">
+                    <div class="card-body box__image">
+                        <div class="feature-icon blue-color">
+                            <i class="las la-paper-plane"></i>
+                        </div>
+                        <h2 class="card-title">Academic Discipline</h2>
+                       </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
 <section id="teachers">
     <div class="container">
 

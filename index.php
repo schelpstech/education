@@ -1,122 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="author" content="Themes Industry">
-    <!-- description -->
-    <meta name="description" content="Product is a highly creative, modern, visually stunning and Bootstrap responsive multipurpose agency and HTML5 template with 14 ready home page demos.">
-    <!-- keywords -->
-    <meta name="keywords" content="creative, modern, clean, bootstrap responsive, html5, css3, portfolio, blog, agency, templates, multipurpose, one page, corporate, start-up, studio, branding, designer, freelancer, carousel, parallax, photography, personal, masonry, grid, faq">
-    <!-- Page Title -->
-    <title>ST John Schools, Ajegunle</title>
-    <link rel="stylesheet" href="vendor/css/jquery.fancybox.min.css">
-    <!-- Favicon -->
-    <link rel="icon" href="education/img/favicon.ico">
-    <!-- Bundle -->
-    <link rel="stylesheet" href="vendor/css/bundle.min.css">
-    <!-- Plugin Css -->
-    <link rel="stylesheet" href="vendor/css/jquery.fancybox.min.css">
-    <link rel="stylesheet" href="vendor/css/cubeportfolio.min.css">
-    <link rel="stylesheet" href="education/css/animate.min.css">
-    <link rel="stylesheet" href="education/css/line-awesome.min.css">
-    <!-- Style Sheet -->
-    <link rel="stylesheet" href="vendor/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="education/css/style.css">
-
-
-</head>
-<body data-spy="scroll" data-target=".navbar" data-offset="150">
-
-<!--  PRELOADER  -->
-<div class="loader1">
-    <div class="loading-area">
-        <div class="circle"></div>
-    <div class="circle-small"></div>
-    <div class="circle-big"></div>
-    <div class="circle-inner-inner"></div>
-    <div class="circle-inner"></div>
-    </div>
-</div>
-
-<header>
-
-    <a class="scroll-top-arrow" href="javascript:void(0);"><i class="fa fa-angle-up"></i></a>
-
-    <!--    NAVBAR FOR LARGE SCREEN-->
-    <nav id="my-nav1" class="navbar navbar-expand-lg navbar-light bg-light stroke navbar-light-vision">
-        <div class="container">
-                <a href="#background-carousal" title="Logo" class="logo scroll link main-logo">
-                    <img src="education/img/logo-img.png" alt="logo" class="logo-dark default">
-                </a>
-
-            <div class="my-tog-btn">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-
-            <div class="collapse navbar-collapse" id="navbarSupportedContent1" >
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a class="nav-link scroll active" href="#background-carousal">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="education/about.html">About</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="education/courses.html">Classes</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="education/gallery.html">Gallery</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="education/blog.html">Blog</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="education/contact.html">Contact</a>
-                        </li>
-                    </ul>
-                    <a class="btn btn-primary rounded-pill navbar-btn"  data-toggle="modal" data-target=".modal">Apply Now</a>
-                </div>
-
-
-            </div>
-    </nav>
-
-    <div class="outer-window">
-        <div class="navbar-content">
-
-            <nav class="navbar1">
-            <a class="close-outerwindow"><i class="las la-times"></i></a>
-                <a href="#background-carousal"><img src="education/img/logo-img.png" alt="logo" class="logo-small-nav default"></a>
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link active" href="index-education.html">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="education/about.html">About</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="education/courses.html">Classes</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="education/gallery.html">Gallery</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="education/blog.html">Blog</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="education/contact.html">Contact</a>
-                </li>
-            </ul>
-        </nav>
-    </div>
-    </div>
-
-</header>
-
+<?php
+include "nav.php";
+?>
 <section id="background-carousal" class="background-carousal">
     <div class="row">
         <div class="col-12">
@@ -205,11 +89,10 @@
                                 <div class="col-1 column-display"></div>
 
                                     <div class="detail-sec">
-                                        <h1 class="main-heading">Education makes proper humanity.</h1>
-                                        <p class="sub-heading margin-sub-heading">Lorem ipsum dolor sit amet, consectetur adipi elit, sed do eiusmod tempor incididunt ut
-                                        labore et dolore magna aliqua. Ut enim veniam, quis nostrud exercitation ullamco laboris nisi
-                                        in voluptate velit esse cillum.</p>
-                                        <a class="btn btn-primary rounded-pill green-btn">Read More</a>
+                                        <h1 class="main-heading">a world class citadel of excellence</h1>
+                                        <p class="sub-heading margin-sub-heading">Our vision is to become a world class citadel of excellence in the educational field with 
+                                            a commitment to raising academically and spiritually sound leadership through high level of instructional, moral and social discipline.</p>
+                                        <a href="about.php" class="btn btn-primary rounded-pill green-btn">Read More</a>
                                      </div>
                             </div>
 
@@ -229,7 +112,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-lg-8 offset-lg-2 text-center">
-                <h1 class="main-heading green-color">Campus<span class="blue-color"> Features</span></h1>
+                <h1 class="main-heading green-color">Why choose <span class="blue-color"> St Johns Schools</span></h1>
                 <p class="sub-heading text-black">Lorem ipsum dolor sit amet, consectetur adipi elit, sed do eiusmod tempor incididunt ut
                     labore et dolore magna aliqua. Ut quis  in voluptate velit esse cillum.</p>
             </div>
@@ -243,8 +126,8 @@
                         <div class="feature-icon green-color">
                             <i class="las la-globe"></i>
                         </div>
-                        <h2 class="card-title">Worldwide Recognize</h2>
-                        <p class="card-text sub-heading">Lorem ipsum dolor sit amet, adipi elit et dolore magna, sed do incididunt</p>
+                        <h2 class="card-title">World Class Curriculum</h2>
+                        <p class="card-text sub-heading">We have a curriculum that reflects the national standard for primary and secondary education</p>
                     </div>
                 </div>
             </div>
@@ -255,8 +138,8 @@
                         <div class="feature-icon blue-color">
                             <i class="las la-gem"></i>
                         </div>
-                        <h2 class="card-title">Top Ranking</h2>
-                        <p class="card-text sub-heading">Lorem ipsum dolor sit amet, adipi elit et dolore magna, sed do incididunt</p>
+                        <h2 class="card-title">Moral Values</h2>
+                        <p class="card-text sub-heading">We are Christ centered school with a core value of raising disciplined and respectful students. </p>
                     </div>
                 </div>
             </div>
@@ -268,7 +151,7 @@
                             <i class="las la-chalkboard-teacher"></i>
                         </div>
                         <h2 class="card-title">Best Teachers</h2>
-                        <p class="card-text sub-heading">Lorem ipsum dolor sit amet, adipi elit et dolore magna, sed do incididunt</p>
+                        <p class="card-text sub-heading">Our recruitment process ensures that we attract the best hands and also ensure they are happy teaching.</p>
                     </div>
                 </div>
             </div>
@@ -277,10 +160,10 @@
                 <div class="card box text-center">
                     <div class="card-body box__image">
                         <div class="feature-icon blue-color">
-                            <i class="las la-book-open"></i>
+                            <i class="las la-university"></i>
                         </div>
-                        <h2 class="card-title">Many Courses</h2>
-                        <p class="card-text sub-heading">Lorem ipsum dolor sit amet, adipi elit et dolore magna, sed do incididunt</p>
+                        <h2 class="card-title">Friendly Campus Environment</h2>
+                        <p class="card-text sub-heading">We have crafted a friendly learning environment which affords us a strong and flourishing student community.</p>
                     </div>
                 </div>
             </div>
@@ -292,7 +175,7 @@
                             <i class="las la-graduation-cap"></i>
                         </div>
                         <h2 class="card-title">Scholarships</h2>
-                        <p class="card-text sub-heading">Lorem ipsum dolor sit amet, adipi elit et dolore magna, sed do incididunt</p>
+                        <p class="card-text sub-heading">At St Johns Schools, academic scholarship is hallmark and paramount. We develop students to be live-long passionate learners.</p>
                     </div>
                 </div>
             </div>
@@ -303,8 +186,8 @@
                         <div class="feature-icon blue-color">
                             <i class="las la-paper-plane"></i>
                         </div>
-                        <h2 class="card-title">Events</h2>
-                        <p class="card-text sub-heading">Lorem ipsum dolor sit amet, adipi elit et dolore magna, sed do incididunt</p>
+                        <h2 class="card-title">Creative and Innovative Training</h2>
+                        <p class="card-text sub-heading">Beyond intellectual development, we raise our learners to be creative individuals who would use prevailing technologies to meet societal needs.</p>
                     </div>
                 </div>
             </div>
@@ -321,7 +204,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="admission-text">
-                        <p class="sub-heading text-white m-0">We Believe that education is for everyone.</p>
+                        <p class="sub-heading text-white m-0">We strongly believe that quality and affordable education is for everyone.</p>
                         <h1 class="main-heading text-white mt-2 mb-4">Want To Get Enrolled!</h1>
                         <a class="btn btn-primary rounded-pill blue-btn"  data-toggle="modal" data-target=".modal">Apply Now</a>
                     </div>
@@ -813,7 +696,7 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-body">
-                <form class="appointment-form contact-form" id="modal-contact-form-data">
+                <form method ="POST" action="vendor/contact-mailer.php"class="appointment-form contact-form" id="modal-contact-form-data">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
