@@ -49,7 +49,7 @@
     <nav id="my-nav1" class="navbar navbar-expand-lg navbar-light bg-light stroke navbar-dark-vision">
         <div class="container">
             <a href="../index-education.html" title="Logo" class="logo link">
-                <img src="../education/img/logo-white.png" alt="logo" class="logo-dark default">
+                <img src="../education/img/logo.png" alt="logo" class="logo-dark default">
             </a>
 
             <div class="my-tog-btn">
@@ -79,7 +79,7 @@
                         <a class="nav-link" href="contact.php">Contact</a>
                     </li>
                 </ul>
-                <a href="../learnable" class="btn btn-primary rounded-pill navbar-btn" >Apply Now</a>
+                <a href="../learnable" class="btn btn-primary rounded-pill navbar-btn" >Portal</a>
             </div>
 
 

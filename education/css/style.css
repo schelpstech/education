@@ -280,7 +280,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .carousel-item:nth-child(1) {
-    background: url('../img/bg-img1.png');
+    background: url('../img/schjohn.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -1668,7 +1668,7 @@ ul.footer-icon li{
 
 /*********************CONTACT US PAGE START************/
 .bg-contact-img{
-    background-image: url('../img/contact-us/contact-header.png');
+    background-image: url('../img/schjohn.jpg');
     position: relative;
 }
 .overlay-contact{
@@ -1800,7 +1800,7 @@ header .navbar-dark-vision .navbar-btn:hover{
     border: 2px solid #94cb00;
 }
 .bg-about-img{
-    background-image: url('../img/about-header.png');
+    background-image: url('../img/schjohn.jpg');
     position: relative;
 }
 #about-header .main-heading{

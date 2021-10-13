@@ -48,7 +48,7 @@
     <nav id="my-nav1" class="navbar navbar-expand-lg navbar-light bg-light stroke navbar-light-vision">
         <div class="container">
                 <a href="#background-carousal" title="Logo" class="logo scroll link main-logo">
-                    <img src="education/img/logo-img.png" alt="logo" class="logo-dark default">
+                    <img src="education/img/logo.png" alt="logo" class="logo-dark default">
                 </a>
 
             <div class="my-tog-btn">
@@ -90,7 +90,7 @@
 
             <nav class="navbar1">
             <a class="close-outerwindow"><i class="las la-times"></i></a>
-                <a href="#background-carousal"><img src="education/img/logo-img.png" alt="logo" class="logo-small-nav default"></a>
+                <a href="#background-carousal"><img src="education/img/logo.png" alt="logo" class="logo-small-nav default"></a>
             <ul class="navbar-nav">
                 <li class="nav-item">
                     <a class="nav-link active" href="index.php">Home</a>

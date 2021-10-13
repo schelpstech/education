@@ -42,13 +42,13 @@ include "nav.php";
                                         <div id="carouselExampleSlidesOnly" class="carousel slide image-div" data-ride="carousel">
                                             <div class="carousel-inner">
                                                 <div class="carousel-item active">
-                                                    <img class="d-block w-100" src="education/img/box-img-1.png" alt="First slide">
+                                                    <img class="d-block w-100" src="education/img/schjohn.jpg" alt="First slide">
                                                 </div>
                                                 <div class="carousel-item animation1">
-                                                    <img class="d-block w-100" src="education/img/box-img-2.png" alt="Second slide">
+                                                    <img class="d-block w-100" src="education/img/schjohn.jpg" alt="Second slide">
                                                 </div>
                                                 <div class="carousel-item animation2">
-                                                    <img class="d-block w-100" src="education/img/box-img-3.png" alt="Second slide">
+                                                    <img class="d-block w-100" src="education/img/schjohn.jpg" alt="Second slide">
                                                 </div>
 
                                             </div>
@@ -57,24 +57,24 @@ include "nav.php";
                                     </div>
 
                                     <div class="col-6 p-0">
-                                        <a href="" class="text-decoration-none">
+                                        <a href="learnable" class="text-decoration-none">
                                         <div class="custom-box bg-green-color">
                                             <div class="bg-study-icon">
                                                 <i class="las la-school"></i>
                                             </div>
-                                            <h1 class="box-text mb-sm-2 mt-sm-2 mb-md-3 mt-md-3 mb-lg-3 mt-lg-3">Check Latest Courses</h1>
+                                            <h1 class="box-text mb-sm-2 mt-sm-2 mb-md-3 mt-md-3 mb-lg-3 mt-lg-3">Log into E-learning Portal</h1>
                                             <div class="arrow-box">
                                                 <i class="las la-arrow-right"></i>
                                             </div>
                                         </div>
                                         </a>
 
-                                        <a href="" class="text-decoration-none">
+                                        <a href="blog" class="text-decoration-none">
                                         <div class="custom-box bg-blue-color">
                                             <div class="bg-campus-icon">
                                                 <i class="las la-university"></i>
                                              </div>
-                                            <h1 class="box-text">Want to know about Campus Life?</h1>
+                                            <h1 class="box-text">Check out latest news</h1>
                                             <div class="arrow-box1">
                                                 <i class="las la-arrow-right"></i>
                                             </div>
@@ -315,9 +315,8 @@ include "nav.php";
 
         <div class="row">
             <div class="col-sm-12 col-lg-8 offset-lg-2 text-center mb-5">
-                <h1 class="main-heading green-color">Faculty <span class="blue-color">Members</span> </h1>
-                <p class="sub-heading text-black">Lorem ipsum dolor sit amet, consectetur adipi elit, sed do eiusmod tempor incididunt ut
-                labore et dolore magna aliqua. Ut quis  in voluptate velit esse cillum.</p>
+                <h1 class="main-heading green-color">School  <span class="blue-color">Leadership</span> </h1>
+                <p class="sub-heading text-black"></p>
             </div>
         </div>
 
@@ -328,20 +327,13 @@ include "nav.php";
                     <div class="item">
                         <div class="team-box wow fadeInUp" data-wow-delay="300ms">
                             <div class="image">
-                                <img src="education/img/teacher1.png" alt="">
+                                <img src="../education/img/stjohn.png" alt="">
                             </div>
                             <div class="team-content gradient_bg whitecolor">
-                                <h3 class="text-white">Elina Marie </h3>
-                                <p class="mb-5 text-white">Language Teacher</p>
+                                <p class="text-white">Mr AKINDELE STEPHEN ADEWALE </p>
+                                <p class="mb-5 text-white">Proprietor</p>
                                 <div class="progress-bars">
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="90"><span>90%</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <p class="text-white">Loem ispum</p>
-                                        <div class="progress-bar" data-value="75"><span>75%</span></div>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -350,113 +342,20 @@ include "nav.php";
                     <div class="item">
                         <div class="team-box wow fadeInUp" data-wow-delay="350ms">
                             <div class="image">
-                                <img src="education/img/teacher2.png" alt="">
+                                <img src="../education/img/teacher2.png" alt="">
                             </div>
                             <div class="team-content gradient_bg_default whitecolor">
-                                <h3 class="text-white">Jhony Walkin</h3>
-                                <p class="text-white mb-5">Photograpy Teacher</p>
+                                <p class="text-white">Mrs AKINDELE BOLA TAIWO</p>
+                                <p class="text-white mb-5">Proprietress</p>
                                 <div class="progress-bars">
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="75"><span>75%</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="90"><span>90%</span></div>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="item">
-                        <div class="team-box wow fadeInUp" data-wow-delay="300ms">
-                            <div class="image">
-                                <img src="education/img/teacher3.png" alt="">
-                            </div>
-                            <div class="team-content gradient_bg whitecolor">
-                                <h3 class="text-white">Clair Daniel</h3>
-                                <p class="text-white mb-5">Computer Teacher</p>
-                                <div class="progress-bars">
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="90"><span>90%</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="75"><span>75%</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="team-box wow fadeInUp" data-wow-delay="300ms">
-                            <div class="image">
-                                <img src="education/img/teacher1.png" alt="">
-                            </div>
-                            <div class="team-content gradient_bg whitecolor">
-                                <h3 class="text-white">Elina Marie</h3>
-                                <p class="text-white mb-5">Sports Teacher</p>
-                                <div class="progress-bars">
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="90"><span>90%</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="75"><span>75%</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="team-box wow fadeInUp" data-wow-delay="350ms">
-                            <div class="image">
-                                <img src="education/img/teacher2.png" alt="">
-                            </div>
-                            <div class="team-content gradient_bg_default whitecolor">
-                                <h3 class="text-white">Johny Walkin</h3>
-                                <p class="text-white mb-5">Science Teacher</p>
-                                <div class="progress-bars">
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="75"><span>75%</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="90"><span>90%</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="team-box wow fadeInUp" data-wow-delay="300ms">
-                            <div class="image">
-                                <img src="education/img/teacher3.png" alt="">
-                            </div>
-                            <div class="team-content gradient_bg whitecolor">
-                                <h3 class="text-white">Clair Daniel</h3>
-                                <p class="text-white mb-5">Mathematics Teacher</p>
-                                <div class="progress-bars">
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="90"><span>90%</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="75"><span>75%</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
+                   
+                  
                 </div>
             </div>
         </div>
@@ -683,7 +582,7 @@ include "nav.php";
                     <li class="footer_list"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                     <li class="footer_list"><a href="#"><i class="fab fa-instagram"></i></a></li>
                 </ul>
-                <p class="sub-heading footer_text text-black"><i class="far fa-copyright"></i>2020 MegaOne. Made with love by themeindustry</p>
+                <p class="sub-heading footer_text text-black"><i class="far fa-copyright"></i><?php echo date("Y")?> ST. JOHNS Schools </p>
 
             </div>
         </div>
@@ -709,10 +608,11 @@ include "nav.php";
                         <input type="number" name="userPhone" id="phone_number" placeholder="Phone number" required />
                         <input type="text" name="userAddress" id="title" placeholder="Address" required />
                         <div class="select-list">
-                            <select name="course" id="course_type" class="la-angle-down">
-                                <option value="course">Course to Apply</option>
-                                <option value="society">Society</option>
-                                <option value="language">Language</option>
+                        <select name="course_type" id="course_type" class="la-angle-down">
+                                <option value="">Select Class</option>
+                                <option value="nursery">Nursery</option>
+                                <option value="primary">Primary</option>
+                                <option value="secondary">Secondary</option>
                             </select>
                         </div>
                     </div>

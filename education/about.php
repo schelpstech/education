@@ -20,7 +20,7 @@ include "navin.php";
         <div class="row">
             <div class=" col-sm-12 col-md-6 col-lg-6">
                 <div class="about_img">
-                    <img src="img/about-img.png" alt="About Image">
+                    <img src="../education/img/stjohn.png" alt="About Image">
                 </div>
             </div>
             <div class="col-sm-12 col-md-6 col-lg-6 d-flex justify-content-center align-items-center mt-4 mt-md-0 mt-lg-0">
@@ -144,9 +144,8 @@ include "navin.php";
 
         <div class="row">
             <div class="col-sm-12 col-lg-8 offset-lg-2 text-center mb-5">
-                <h1 class="main-heading green-color">Faculty <span class="blue-color">Members</span> </h1>
-                <p class="sub-heading text-black">Lorem ipsum dolor sit amet, consectetur adipi elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua. Ut quis  in voluptate velit esse cillum.</p>
+                <h1 class="main-heading green-color">School  <span class="blue-color">Leadership</span> </h1>
+                <p class="sub-heading text-black"></p>
             </div>
         </div>
 
@@ -157,20 +156,13 @@ include "navin.php";
                     <div class="item">
                         <div class="team-box wow fadeInUp" data-wow-delay="300ms">
                             <div class="image">
-                                <img src="../education/img/teacher1.png" alt="">
+                                <img src="../education/img/stjohn.png" alt="">
                             </div>
                             <div class="team-content gradient_bg whitecolor">
-                                <h3 class="text-white">Elina Marie </h3>
-                                <p class="mb-5 text-white">Language Teacher</p>
+                                <p class="text-white">Mr AKINDELE STEPHEN ADEWALE </p>
+                                <p class="mb-5 text-white">Proprietor</p>
                                 <div class="progress-bars">
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="90"><span>90%</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <p class="text-white">Loem ispum</p>
-                                        <div class="progress-bar" data-value="75"><span>75%</span></div>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -182,110 +174,17 @@ include "navin.php";
                                 <img src="../education/img/teacher2.png" alt="">
                             </div>
                             <div class="team-content gradient_bg_default whitecolor">
-                                <h3 class="text-white">Jhony Walkin</h3>
-                                <p class="text-white mb-5">Photograpy Teacher</p>
+                                <p class="text-white">Mrs AKINDELE BOLA TAIWO</p>
+                                <p class="text-white mb-5">Proprietress</p>
                                 <div class="progress-bars">
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="75"><span>75%</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="90"><span>90%</span></div>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="item">
-                        <div class="team-box wow fadeInUp" data-wow-delay="300ms">
-                            <div class="image">
-                                <img src="../education/img/teacher3.png" alt="">
-                            </div>
-                            <div class="team-content gradient_bg whitecolor">
-                                <h3 class="text-white">Clair Daniel</h3>
-                                <p class="text-white mb-5">Computer Teacher</p>
-                                <div class="progress-bars">
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="90"><span>90%</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="75"><span>75%</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="team-box wow fadeInUp" data-wow-delay="300ms">
-                            <div class="image">
-                                <img src="../education/img/teacher1.png" alt="">
-                            </div>
-                            <div class="team-content gradient_bg whitecolor">
-                                <h3 class="text-white">Elina Marie</h3>
-                                <p class="text-white mb-5">Sports Teacher</p>
-                                <div class="progress-bars">
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="90"><span>90%</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="75"><span>75%</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="team-box wow fadeInUp" data-wow-delay="350ms">
-                            <div class="image">
-                                <img src="../education/img/teacher2.png" alt="">
-                            </div>
-                            <div class="team-content gradient_bg_default whitecolor">
-                                <h3 class="text-white">Johny Walkin</h3>
-                                <p class="text-white mb-5">Science Teacher</p>
-                                <div class="progress-bars">
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="75"><span>75%</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="90"><span>90%</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="team-box wow fadeInUp" data-wow-delay="300ms">
-                            <div class="image">
-                                <img src="../education/img/teacher3.png" alt="">
-                            </div>
-                            <div class="team-content gradient_bg whitecolor">
-                                <h3 class="text-white">Clair Daniel</h3>
-                                <p class="text-white mb-5">Mathematics Teacher</p>
-                                <div class="progress-bars">
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="90"><span>90%</span></div>
-                                    </div>
-                                    <div class="progress">
-                                        <p class="text-white sub-heading">Loem ispum</p>
-                                        <div class="progress-bar" data-value="75"><span>75%</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
+                   
+                  
                 </div>
             </div>
         </div>
@@ -293,73 +192,6 @@ include "navin.php";
     </div>
 </section>
 
-<section id="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 text-center footer-content">
-                <ul class="footer-icon">
-                    <li class="footer_list"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                    <li class="footer_list"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                    <li class="footer_list"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                    <li class="footer_list"><a href="#"><i class="fab fa-instagram"></i></a></li>
-                </ul>
-                <p class="sub-heading footer_text text-black"><i class="far fa-copyright"></i>2020 MegaOne. Made with love by themeindustry</p>
-
-            </div>
-        </div>
-    </div>
-</section>
-
-<!--modal window-->
-<div class="modal fade model-reg" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-body">
-                <form class="appointment-form" id="appointment-form">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                    <h1 class="font-weight-bold green-color form-tittle">Apply<span class="blue-color"> Now!</span></h1>
-                    <div class="form-group-1">
-                        <input type="text" name="name" id="name" placeholder="Your Name" required />
-                        <input type="text" name="name" placeholder="Father Name" required />
-                        <input type="email" name="email" id="email" placeholder="Email" required />
-                        <input type="number" name="phone_number" id="phone_number" placeholder="Phone number" required />
-                        <input type="text" name="title" id="title" placeholder="Address" required />
-                        <div class="select-list">
-                            <select name="course_type" id="course_type" class="la-angle-down">
-                                <option value="">Course to Apply</option>
-                                <option value="society">Society</option>
-                                <option value="language">Language</option>
-                            </select>
-                        </div>
-                    </div>
-
-                    <button type="button" class="btn btn-large btn-primary contact-btn w-100 text-white" id="submit_btn" onclick="send_mails();">SUBMIT NOW</button>
-
-                </form>
-
-
-            </div>
-
-        </div>
-    </div>
-</div>
-<!--modal window end-->
-
-<!-- JavaScript -->
-<script src="../vendor/js/bundle.min.js"></script>
-
-<!-- Plugin Js -->
-<script src="../vendor/js/jquery.fancybox.min.js"></script>
-<script src="../vendor/js/jquery.cubeportfolio.min.js"></script>
-
-<!-- custom script -->
-<script src="../education/js/mediaelement-and-player.min.js"></script>
-<script src="../education/js/wow.min.js"></script>
-<script src="../vendor/js/owl.carousel.min.js"></script>
-<script src="../vendor/js/parallaxie.min.js"></script>
-<script src="../education/js/script.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
-</body>
-</html>
+<?php
+include "footer.php"
+?>
